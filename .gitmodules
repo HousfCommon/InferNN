@@ -1,0 +1,6 @@
+[submodule "yolov5"]
+	path = yolov5
+	url = https://github.com/ultralytics/yolov5.git
+[submodule "vision"]
+	path = vision
+	url = https://github.com/pytorch/vision.git
